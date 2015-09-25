@@ -12,13 +12,16 @@ body {
 
 a {
 	color: $main-color;
+	text-decoration: none;
+	&:hover {
+		text-decoration: underline;
+	}
 }
 
 header {
 	padding: 0 4rem;
 	background-color: #fff;
 	text-align: center;
-
 	h1 {
 		display: inline-block;
 		padding: 1.05rem 2rem;
@@ -27,7 +30,6 @@ header {
 		font-weight: 400;
 		cursor: default;
 	}
-
 	nav {
 		display: inline-block;
 		vertical-align: top;
@@ -47,6 +49,7 @@ header {
 					transition-duration: .3s;
 					&:hover {
 						border-bottom: .2rem solid $main-color;
+						text-decoration: none;
 					}
 				}
 			}
@@ -72,4 +75,22 @@ main {
 	max-width: 960px;
 	background-color: #fff;
 	box-shadow: 0 2px 2px #777;
+	h2 {
+		font-weight: 400;
+		margin-right: 4rem;
+		padding-bottom: .5rem;
+		border-bottom: 1px solid #ccc;
+		&::before {
+			content: '#';
+			margin-right: .6rem;
+			color: #888;
+		}
+	}
+	ul {
+		margin-bottom: 2.4rem;
+		li {
+			line-height: 1.8rem;
+		}
+	}
+
 }
