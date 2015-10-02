@@ -1,5 +1,6 @@
 ---
 title: 翻譯
+permalink: /translate/
 ---
 
 ## 共同合作

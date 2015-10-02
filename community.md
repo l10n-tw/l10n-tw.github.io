@@ -1,5 +1,6 @@
 ---
 title: 社群
+permalink: /community/
 ---
 
 - 參與指引
