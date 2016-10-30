@@ -21,29 +21,25 @@ permalink: /culture/
 ##### Blender
 
 問：「請問這個叫『Blender』的怪東西究竟是什麼？」
+What is this strange "Blender" thing about?
 
 Blender 基金會主席 Ton Roosendaal 答：「Blender 是在講一群人。」
-
-Q: What is this strange "Blender" thing about?
-
-A: Blender is about people. —Ton Roosendaal, Chairman of Blender Foundation
+Blender is about people. —Ton Roosendaal, Chairman of Blender Foundation
 
 ##### Fedora
 
 問：「請問什麼是 Fedora 專案？」
+What is the Fedora Project?
 
 答：「Fedora 專案是全世界自由軟體社群成員間的互助合作。Fedora 專案孕育許多開源軟體社群，並打造出一個名為『Fedora』的 Linux 散佈版本。」
+The Fedora Project is a partnership of Free software community members from around the globe. The Fedora Project builds open source software communities and produces a Linux distribution called "Fedora."
 
-Q: What is the Fedora Project?
-
-A: The Fedora Project is a partnership of Free software community members from around the globe. The Fedora Project builds open source software communities and produces a Linux distribution called "Fedora."
 
 ##### LibreOffice
 
 口號：Fantastic People
 
 「LibreOffice 不只是軟體。它更是人群、文化、創造、分享、與合作。」
-
 LibreOffice is about more than software. It's about people, culture, creation, sharing and collaboration.
 
 ####《心 Mind》
@@ -62,7 +58,7 @@ We provide free alternatives to proprietary code and content to make Fedora comp
 
 ##### The Document Foundation
 
-弭平數位落差，讓每個人都可免費使用辦公軟體。
+弭平數位落差，讓每個人都可免費使用辦公軟體，使其得以21世紀的完整公民身份參與社會。
 To eliminate the digital divide in society by giving everyone access to office productivity tools free of charge to enable them to participate as full citizens in the 21st century
 
 ####《結 Connection》
