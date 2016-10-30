@@ -58,7 +58,7 @@ We provide free alternatives to proprietary code and content to make Fedora comp
 
 ##### The Document Foundation
 
-弭平數位落差，讓每個人都可免費使用辦公軟體，使其得以21世紀的完整公民身份參與社會。
+弭平數位落差，讓每個人都可免費使用辦公軟體，使其得以21世紀的完全公民身份參與社會。
 To eliminate the digital divide in society by giving everyone access to office productivity tools free of charge to enable them to participate as full citizens in the 21st century
 
 ####《結 Connection》
