@@ -9,7 +9,7 @@ permalink: /community/
 
 ## 社群列表
 
-- [Linux Distributions](l10n.linux.org.tw)
+- [Linux Distributions](http://l10n.linux.org.tw)
 - 桌面環境 (Desktop Environment)
 	+ GNOME
 	+ KDE
