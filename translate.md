@@ -13,7 +13,7 @@ permalink: /translate/
 ## 專案列表
 
 - [GNU translation project](http://translationproject.org)
-- [l10n-tw-translationproject](https://github.com/l10n-tw/l10n-tw-translationproject)
+- [GitHub](https://github.com/l10n-tw)
 
 ## 推薦工具
 
