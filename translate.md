@@ -14,10 +14,10 @@ permalink: /translate/
 
 - [GNU translation project](http://translationproject.org)
 - [l10n-tw-translationproject](https://github.com/l10n-tw/l10n-tw-translationproject)
-- [transifex](https://www.transifex.com/)
 
 ## 推薦工具
 
 - [Poedit](https://poedit.net)
 - [Crowdin](https://crowdin.com/)
 - [Launchpad](https://launchpad.net/)
+- [Transifex](https://www.transifex.com/)
