@@ -13,6 +13,10 @@ permalink: /translate/
 - [L10n-tw Telegram 群組](https://telegram.me/l10n_tw)
 - L10n 的 IRC： l10n-tw @ irc.freenode.net
 
+## 特色專案
+
+- [《Designing with LibreOffice》正體中文翻譯](https://github.com/l10n-tw/designing-with-libreoffice)
+
 ## 專案列表
 
 - [GNU translation project](http://translationproject.org)
