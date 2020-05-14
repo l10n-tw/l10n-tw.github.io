@@ -2,12 +2,22 @@
 
 ## 變數說明
 
+### 開啟、關閉 AMP 網頁
 ```
-AMP: [true], false // 開啟、關閉 AMP 網頁
+AMP: [true], false 
+```
 
+### 警報
+
+_DRAFT: 還沒撰寫完成的訊息,  _PRIVATE: 完全不顯示內文和標題... , 自訂文字
+
+```
 INFO: _DRAFT, _PRIVATE, [false], 自訂資訊文字
-// 顯示警報。 _DRAFT: 還沒撰寫完成的訊息,  _PRIVATE: 完全不顯示內文和標題... , 自訂資訊文字
-
-INFO-ICON: [info], warning // 警報圖標，出自 https://material.io/
-
+```
+#### 圖標
+警報圖標，出自 [Google Material](https://material.io/)。
+info (![img](https://fonts.gstatic.com/s/i/materialicons/info/v7/24px.svg)), 
+warning (![img](https://fonts.gstatic.com/s/i/materialiconsoutlined/warning/v5/24px.svg))
+```
+INFO-ICON: [info], warning
 ```
