@@ -1,7 +1,26 @@
 exclude: [README.md]
+navigation:
+    - title: 最新快訊
+      url: "/"
+    - title: 文化
+      url: "/culture/"
+    - title: 翻譯
+      url: "/translate/"
+    - title: 字型
+      url: "/font/"
+    - title: 開發
+      url: "/development/"
+    - title: 社群
+      url: "/community/"
+    - title: 標誌
+      url: "http://l10n.tw/l10n-tw-logo/"
+
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+      path: ""
     values:
       layout: "default"
+      AMP: true
+      INFO: false
+      INFO-ICON: info

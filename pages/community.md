@@ -3,10 +3,11 @@ title: 社群
 permalink: /community/
 ---
 
+{% comment %}
 - 參與指引
 - 如何參與
 - 進行貢獻
-
+{% endcomment %}
 ## 社群列表
 
 - [Linux Distributions](http://l10n.linux.org.tw)
