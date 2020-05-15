@@ -41,7 +41,6 @@ layout: compress
         </header>
         <main>
             {% if page.INFO != false %}
-            <div style="align-content: center;">
                 <table class="info-css" border="0">
                     <tr>
                         <td>
@@ -64,11 +63,6 @@ layout: compress
                             {% endcase %}</td>
                         　</tr>
                 </table>
-
-                <b>
-
-                </b>
-            </div>
             {% if page.INFO != "_PRIVATE" %}{{ content }}{% endif %}
             {% else %}
             {{ content }}
