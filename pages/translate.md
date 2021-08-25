@@ -5,11 +5,11 @@ permalink: /translate/
 
 ## 須知
 
-- [自由軟體正體中文化工作指引](http://docs.google.com/View?id=df5pz2jt_12cwtxwfqn)
+- [自由軟體正體中文化工作指引](https://docs.google.com/document/d/1Zs4CS_ZjN-imnImq4aEsiVYih8zkIkVZTSQim13_kYg/)
 
 ## 共同合作
 
-- [L10n Google 網上論壇](https://groups.google.com/group/chinese-l10n)
+- [L10n Google 網路論壇](https://groups.google.com/group/chinese-l10n)
 - [L10n-tw Telegram 群組](https://telegram.me/l10n_tw)
 - L10n 的 IRC： l10n-tw @ irc.freenode.net
 - [Github](https://github.com/l10n-tw)
