@@ -13,7 +13,7 @@ navigation:
     - title: 社群
       url: "/community/"
     - title: 標誌
-      url: "http://l10n.tw/l10n-tw-logo/"
+      url: "https://l10n.tw/l10n-tw-logo/"
 
 defaults:
   -
