@@ -5,7 +5,7 @@ permalink: /translate/
 
 ## 須知
 
-- [自由軟體正體中文化工作指引](https://docs.google.com/document/d/1Zs4CS_ZjN-imnImq4aEsiVYih8zkIkVZTSQim13_kYg/)
+- [自由軟體正體中文化工作指引](https://hackmd.io/@l10n-tw/HJnIn-KRt)
 
 ## 共同合作
 
