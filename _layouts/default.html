@@ -8,12 +8,13 @@ layout: compress
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
         <title>{% if page.INFO != "_PRIVATE" %}{{ page.title }} &mdash; {% endif %}l10n.tw</title>
-        <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+        {% seo %}
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
         <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
-        <meta name="apple-mobile-web-app-title" content="L10N-TW">
+        <meta name="apple-mobile-web-app-title" content="L10N TW">
         <meta name="application-name" content="L10N-TW">
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="theme-color" content="#ffffff">
@@ -25,7 +26,6 @@ layout: compress
         <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
         {% endif %}
         <style{% if page.AMP == true %} amp-custom{% endif %}>{% include style.scss %}</style>
-        {% seo %}
     </head>
 
     <body>
