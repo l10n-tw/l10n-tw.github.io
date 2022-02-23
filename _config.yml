@@ -1,7 +1,6 @@
 title: 臺灣自由開源 L10N 社群支援站
 url: https://l10n.tw
 logo: /images/android-chrome-192x192.png
-image: /images/l10n-tw_thumbnail.webp
 social:
     name: L10n Taiwan
     links:
@@ -34,5 +33,6 @@ defaults:
       AMP: true
       INFO: false
       INFO-ICON: info
+      image: /images/l10n-tw_thumbnail.webp
 plugins:
     - jekyll-seo-tag
