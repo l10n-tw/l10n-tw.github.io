@@ -1,3 +1,13 @@
+title: 臺灣自由開源 L10N 社群支援站
+url: l10n.tw
+logo: /images/android-chrome-192x192.png
+image: /images/l10n-tw_thumbnail.webp
+social:
+    name: L10n Taiwan
+    links:
+        - https://github.com/l10n-tw/
+locale: zh_TW
+
 exclude: [README.md]
 navigation:
     - title: 最新快訊
@@ -24,3 +34,5 @@ defaults:
       AMP: true
       INFO: false
       INFO-ICON: info
+plugins:
+    - jekyll-seo-tag
