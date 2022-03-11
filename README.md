@@ -1,8 +1,31 @@
 # 臺灣自由開源 L10N 社群支援站。l10n-tw.github.io
 
+## 建置網站
+
+本網站採用 Jekyll 來產生靜態網頁。您需要安裝[必要軟體](https://jekyllrb.com/docs/installation/)以繼續以下步驟。
+
+### 啟動本機測試伺服器
+
+```shell
+bundle exec jekyll serve
+```
+
+或
+
+```shell
+jekyll serve
+```
+
+### 產生部署網站成品
+
+```shell
+jekyll build
+```
+
 ## 變數說明
 
 ### 開啟、關閉 AMP 網頁
+
 ```
 AMP: [true], false 
 ```
