@@ -5,7 +5,9 @@ permalink: /translate/
 
 ## 須知
 
-- [自由軟體正體中文化工作指引](https://hackmd.io/@l10n-tw/HJnIn-KRt)
+- [自由軟體正體中文化工作流程規範](https://hackmd.io/@l10n-tw/translation_guidelines)
+- [自由軟體正體中文化翻譯風格指引](https://hackmd.io/@l10n-tw/translation_style_guide)
+- 
 
 ## 共同合作
 
